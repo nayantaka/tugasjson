@@ -1,0 +1,5 @@
+Buat sebuah project untuk menghasilkan data JSON dengan menggunakan PHP MySQL.
+Database mahasiswa dengan tabel : biodata, matakuliah, dan sebuah tabel transaksi yang merupakan relasi mahasiswa mengambil mata kuliah(many to many) seperti materi minggu lalu.
+Data JSON yang dihasilkan ada 3 buah yaitu json biodata, json matakuliah dan json transaksi mata kuliah yang diambil
+Tugas dikumpulkan melalui email : dbs@edu.unisbank.ac.id yang berisi 1 file sql hasil export dari database dan 3 buah file php provider data json.
+Tugas dikumpulkan paling lambat tanggal 1 Juni 2018 jam 21.00
